@@ -1,0 +1,12 @@
+tensorflow
+numpy
+Pillow
+tqdm==
+matplotlib
+seaborn
+pandas
+scikit-learn
+opencv-python
+h5py
+psutil
+memory-profiler
